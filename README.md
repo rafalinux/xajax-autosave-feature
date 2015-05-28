@@ -122,7 +122,7 @@ You can download the complete code from `main.php`. This README was only an expl
 
 Do you want to use the FCKEditor version? Check `main_editor.php`.
 
-## Important notes
+## Important issues
 
 - First, for the newbies, be carefull with the paths: for me, I have to write:
 
